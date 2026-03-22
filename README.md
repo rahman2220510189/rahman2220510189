@@ -1,5 +1,5 @@
 # Hi there, I'm MD Naymur Rahman 👋 
-### Full-Stack Developer & Machine Learning Enthusiast
+### Full-Stack AI Developer 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rahman2220510189&label=Profile%20views&color=2ecc71&style=flat" alt="rahman2220510189" />
